@@ -1,0 +1,9 @@
+# Hugo build output
+/public/
+/resources/
+
+# Temporary / build artifacts
+.hugo_build.lock
+
+# OS / editor
+.DS_Store

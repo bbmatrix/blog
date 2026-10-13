@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://bbmatrix.github.io/blog/'
 locale = 'en-us'
 title = 'bb_matrixページ'
 theme = "nojs"
