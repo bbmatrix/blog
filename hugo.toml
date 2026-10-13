@@ -1,7 +1,7 @@
 baseURL = 'https://bbmatrix.github.io/blog/'
 locale = 'en-us'
-title = 'bb_matrixページ'
-theme = "nojs"
+title = 'ガレージ'
+theme = "kopi"
 
 [menus]
   [[menus.main]]
